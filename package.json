@@ -1,0 +1,23 @@
+{
+  "name": "11022210053",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Pragya3104@github.com/Pragya3104/11022210053.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragya3104/11022210053/issues"
+  },
+  "homepage": "https://github.com/Pragya3104/11022210053#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}
